@@ -1,4 +1,4 @@
-# R Projects: Data Carpentry Coursework & Korea Gender Labor Market Analysis
+# Digital Archives and Methods
 
 This repository contains two R projects completed as part of coursework: a
 data wrangling/visualization exercise using a Danish monarchs dataset, and
